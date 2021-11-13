@@ -5,6 +5,5 @@
 Скриншоты выполненной работы
 ```
 ![Alt-текст](https://i.ibb.co/TBf0nZ3/2021-11-13-114634.png "Kar")
-![Alt-текст](https://i.ibb.co/BsKJRmj/2021-11-13-115402.png "Gav")
 ![Alt-текст](https://i.ibb.co/9Vzs1mT/2021-11-13-115545.png "OAO")
 ![Alt-текст](https://i.ibb.co/Tk3bLGP/2021-11-13-115859.png "AOA")
